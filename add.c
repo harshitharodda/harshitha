@@ -12,4 +12,8 @@ int main()
 	   printf("\n difference");
 	   break;
 
+	case'B':
+	   c=a*b;
+	   printf("\n multiplication");
+	   break;
 }
