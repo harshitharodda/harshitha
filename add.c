@@ -5,4 +5,11 @@ int main()
    c=a+b;
    printf("value of c :");
    return 0;
+
+   switch(value)
+	case'A':
+	   c=a-b;
+	   printf("\n difference");
+	   break;
+
 }
