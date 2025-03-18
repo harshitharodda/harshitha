@@ -16,4 +16,10 @@ int main()
 	   c=a*b;
 	   printf("\n multiplication");
 	   break;
+	   
+	case'C':
+	   c=a/b;
+	   printf("\n division");
+	   break;
+
 }
