@@ -5,6 +5,10 @@ int main()
 	case 1:
 	  printf("b-Tech in CSE");
 	  break;
+	case 2:
+	  printf("B-Tech in AIML");
+	  break;
+
 
 
 }
