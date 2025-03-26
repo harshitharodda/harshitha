@@ -14,6 +14,8 @@ int main()
 	case 4:
 	  printf("B-tech in MEC");
 	  break;
+	case 5:
+	  printf("case1");
+	  break;
 
-            
 }
